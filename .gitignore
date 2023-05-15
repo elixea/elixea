@@ -25,5 +25,5 @@ elixea-*.tar
 # Temporary files, for example, from tests.
 /tmp/
 
-# Elixir language server files
+# Elixir language server files.
 .elixir_ls
