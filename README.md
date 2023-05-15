@@ -160,3 +160,5 @@ Received reply: "Processed message"
 Actors provide a powerful concurrency model in Elixir, allowing for scalable and responsive systems.
 
 By leveraging lightweight processes and message passing, actors enable concurrent processing and isolation of state. As you delve deeper into Elixir development, understanding actors and their messaging capabilities will help you build highly concurrent and fault-tolerant applications.
+  
+© Elixea 2023, by @vKxni.
